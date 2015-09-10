@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ssyahdan.github.io
+title: Things We Wrote Today
+email: sukasahsyahdan@gmail.com
+author: ssyahdan
+description: Our collective awesomeness
+paginate: 3
+google_analytics: 
