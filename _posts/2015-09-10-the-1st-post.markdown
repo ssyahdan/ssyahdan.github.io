@@ -1,0 +1,6 @@
+---
+published: true
+title: The 1st Post
+layout: post
+---
+This is the first post. 
